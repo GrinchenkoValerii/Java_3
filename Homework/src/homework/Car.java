@@ -27,10 +27,6 @@ public class Car implements Comparable<Car>{
     public String getmarka() {
         return marka;
     }
-    
-    public void setmarka(String marka){
-        this.marka = marka;
-    }
 
     public int getgod() {
         return god;
